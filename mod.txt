@@ -3,8 +3,6 @@
 	"name" : "Pagers Counter Fix",
 	"description" : "This mod fixes a bug with the tab screen pager count",
 	"author" : "",
-	"image" : "icon.png",
-	"color" : "0.15 0.15 0.15",
 	"contact" : "",
 	"version" : "1.0.0",
 	"hooks" : [
